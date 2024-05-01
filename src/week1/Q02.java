@@ -1,5 +1,4 @@
 package week1;
-
 import java.util.Scanner;
 
 // Write the algorithm of the program that finds the sum of two entered non-zero numbers and prints the result on the screen.
@@ -15,6 +14,15 @@ public class Q02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
         System.out.println("Please enter the first number (number1): ");
+        double number1 =  scanner.nextDouble();
+        System.out.println("Please enter the second number (number2): ");
+        double number2 = scanner.nextDouble();
 
+        if (number1 == 0 || number2 == 0){
+            System.out.println("Please enter non-zero numbers.");
+            return;
+        }
+        double total = number1 + number2 ;
+        System.out.println("The sum of " + number1 + " and " + number2 + " is: " + total);
     }
 }

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cdc7eca-67be-473f-a5dd-008656cfd6b4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/week1/S02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/S01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/S01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q02.executor": "Run",
+    "Application.Q03.executor": "Run",
+    "Application.Q04.executor": "Run",
     "Application.S01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,6 +79,7 @@
       <workItem from="1714568075174" duration="1403000" />
       <workItem from="1714572207386" duration="150000" />
       <workItem from="1714572868311" duration="846000" />
+      <workItem from="1714574879291" duration="7203000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -108,7 +113,39 @@
       <option name="project" value="LOCAL" />
       <updated>1714568528625</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714575779227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575779227</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714575846077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575846077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714575870181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575870181</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714575912071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575912071</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
