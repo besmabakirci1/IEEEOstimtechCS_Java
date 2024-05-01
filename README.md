@@ -1,6 +1,6 @@
-# Java-Bootcamp with Mr. Hasan Kadir Demircan by partnership with IEEE OSTİMTECH Computer Society 🤍💙 :
+# Java-Bootcamp with Mr. Hasan Kadir Demircan by partnership with IEEE OSTİMTECH Computer Society :
 
-## The Bootcamp has started in 20 April - 19 May 2024 at Ostim Technical University.
+## The Bootcamp has started in 20 April - 19 May 2024 at Ostim Technical University.🤍💙 
 ## I have got honor to assist a amazing instructor and organisation this bootcamp as vice leader of computer society.
 ### The instructor's 
 ### Linkedin Account : https://www.linkedin.com/in/hasan-kadir-demircan/
