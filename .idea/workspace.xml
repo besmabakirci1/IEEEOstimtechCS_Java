@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8cdc7eca-67be-473f-a5dd-008656cfd6b4" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q01.executor": "Run",
     "Application.Q02.executor": "Run",
     "Application.Q03.executor": "Run",
     "Application.Q04.executor": "Run",
@@ -47,7 +52,9 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/basmabakirci/IdeaProjects/IEEEOstimtech/IEEEOstimtechCS_Java",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/basmabakirci/IdeaProjects/IEEEOstimtech/untitled/src/Main.java",
@@ -80,7 +87,9 @@
       <workItem from="1714574879291" duration="9361000" />
       <workItem from="1714659215286" duration="3000" />
       <workItem from="1714659361887" duration="1125000" />
-      <workItem from="1714680956128" duration="1895000" />
+      <workItem from="1714680956128" duration="3313000" />
+      <workItem from="1714688188173" duration="1097000" />
+      <workItem from="1714689300787" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -170,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714660459168</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714686952730</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714686952730</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
