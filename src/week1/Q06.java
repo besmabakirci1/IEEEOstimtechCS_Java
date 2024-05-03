@@ -20,22 +20,26 @@ public class Q06 {
         double N = scanner.nextDouble();
         double total = 0;
         double counter = 0;
-        while(true){
+        /*
+            while(true){
+
             if (counter > (N-1)){
                 System.out.println(total);
             } else {
                 counter = counter + 1;
                 total = total + counter;
-            }
+            } */
 
 
 
-            while (counter < N) {
+            /* while (counter < N) {
                 counter = counter + 1;
                 total = total + counter;
             }
 
-            System.out.println("The sum of integers from 1 to " + N + " is: " + total);
+            System.out.println("The sum of integers from 1 to " + N + " is: " + total); */
         }
     }
 }
+
+// kafana takılanı sor. unutma !
