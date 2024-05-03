@@ -1,5 +1,4 @@
 package week1;
-
 import java.util.Scanner;
 
 // Algorithm and flowchart that calculates the sum of integers from 1 to N
@@ -10,7 +9,7 @@ import java.util.Scanner;
 // Step 5: If counter > N-1, go to Step8.
 // Step 6: increase the combat value by 1. (counter = counter+1)
 // Step 7: add the total variable and the counter variable and get the result
-//assign it to the total variable and go to Step5. (total = total+ counter)
+// assign it to the total variable and go to Step5. (total = total+ counter)
 // Step 8: write the total variable to the screen.
 // Step 9: Finish
 public class Q06 {
@@ -20,26 +19,14 @@ public class Q06 {
         double N = scanner.nextDouble();
         double total = 0;
         double counter = 0;
-        /*
-            while(true){
 
-            if (counter > (N-1)){
-                System.out.println(total);
-            } else {
-                counter = counter + 1;
-                total = total + counter;
-            } */
-
-
-
-            /* while (counter < N) {
-                counter = counter + 1;
-                total = total + counter;
-            }
-
-            System.out.println("The sum of integers from 1 to " + N + " is: " + total); */
+        while(counter <= (N - 1)){
+            counter ++;
+            total += counter;
         }
+        System.out.println("The sum of integers from 1 to " + N + " is: " + total);
     }
 }
 
-// kafana takılanı sor. unutma !
+// kafana takılanı sor mesela neden sonsuz döngüye girdi?
+// akış şeması ile aynı olduğunu düşünmüyorum yazdığımın.

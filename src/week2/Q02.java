@@ -1,7 +1,7 @@
 package week2;
 import java.util.Scanner;
 
-//Kullanıcıdan alınan sayının faktöriyelini bulan ve ekrana yazdıran java kodu yazınız
+// Kullanıcıdan alınan sayının faktöriyelini bulan ve ekrana yazdıran java kodu yazınız
 // Write a java code that finds the factorial of the number received from the user and prints it on the screen.
 public class Q02 {
     public static void main(String[] args) {
@@ -17,8 +17,5 @@ public class Q02 {
             sum *= i;
         }
         System.out.println("the factorial is:  " + sum);
-
-
-
     }
 }

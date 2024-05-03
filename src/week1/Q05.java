@@ -16,6 +16,7 @@ public class Q05 {
         double number1 = scanner.nextDouble();
         System.out.println("Please enter the second number(number2): ");
         double number2 = scanner.nextDouble();
+
         if (number1 == number2){
             System.out.println("Number and argument are the same");
         } else if (number1 >number2) {

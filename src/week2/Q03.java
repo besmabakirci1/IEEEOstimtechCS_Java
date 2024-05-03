@@ -1,5 +1,7 @@
 package week2;
 
+import java.util.Scanner;
+
 // HackerLand University has the following grading policy:
 //• Every student receives a grade in the inclusive range from 0 to 100.
 //• Any grade less than 40 is a failing grade.
@@ -16,4 +18,26 @@ package week2;
 // gradingStudents has the following parameter(s):
 //• int grades[n]: the grades before rounding
 public class Q03 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please enter the grade: ");
+        double theGrade = scanner.nextDouble();
+        double round = (theGrade / 5 + 1 ) * 5;
+        double minGrade = 0;
+        double maxGrade = 100;
+        while (minGrade < theGrade && theGrade < maxGrade){
+            if (theGrade < 40){
+                System.out.println("You failed.");
+            }
+            if (round - theGrade < 3 ){
+                return;
+            }
+        }
+        System.out.println("Please input the grade btw 0 and 100");
+
+
+    }
 }
+// int nextMultipleOfFive = (grade / 5 + 1) * 5; // Calculate next multiple of 5
+//        return grade + (nextMultipleOfFive - grade < 3 ? nextMultipleOfFive - grade : 0); // Round if difference is less than 3
+//    }
