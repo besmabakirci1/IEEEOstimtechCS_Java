@@ -26,18 +26,11 @@ public class Q03 {
         double minGrade = 0;
         double maxGrade = 100;
         while (minGrade < theGrade && theGrade < maxGrade){
-            if (theGrade < 40){
+            if (theGrade < 38){
                 System.out.println("You failed.");
-            }
-            if (round - theGrade < 3 ){
+            }else if ( (round - theGrade) < 3 ){
                 return;
             }
         }
-        System.out.println("Please input the grade btw 0 and 100");
-
-
     }
 }
-// int nextMultipleOfFive = (grade / 5 + 1) * 5; // Calculate next multiple of 5
-//        return grade + (nextMultipleOfFive - grade < 3 ? nextMultipleOfFive - grade : 0); // Round if difference is less than 3
-//    }

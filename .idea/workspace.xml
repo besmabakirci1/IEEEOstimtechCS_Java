@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cdc7eca-67be-473f-a5dd-008656cfd6b4" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Q06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/S01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +58,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.Q01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q02_Day2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q03.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q04.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q06.executor&quot;: &quot;Run&quot;,
@@ -65,6 +77,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week3.Day2" />
+      <recent name="week3.Day1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +112,17 @@
       <workItem from="1714680956128" duration="3313000" />
       <workItem from="1714688188173" duration="1097000" />
       <workItem from="1714689300787" duration="3156000" />
-      <workItem from="1714734260946" duration="1992000" />
+      <workItem from="1714734260946" duration="5213000" />
+      <workItem from="1714768258903" duration="1838000" />
+      <workItem from="1714824424240" duration="6176000" />
+      <workItem from="1714860829153" duration="636000" />
+      <workItem from="1714910795941" duration="1012000" />
+      <workItem from="1714912381163" duration="5000" />
+      <workItem from="1714912398116" duration="336000" />
+      <workItem from="1714912807621" duration="3745000" />
+      <workItem from="1714917495346" duration="810000" />
+      <workItem from="1714938324684" duration="86000" />
+      <workItem from="1714938414164" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -216,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714734631295</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714741393062</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714741393062</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,5 +274,16 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week2/Q03.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
