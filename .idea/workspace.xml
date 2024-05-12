@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cdc7eca-67be-473f-a5dd-008656cfd6b4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day1/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Day2/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/homeworkReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/homeworkWritten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Q06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3/S01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/week1/Q06.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/week4/Q01.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,29 +46,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q02_Day2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.S01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/basmabakirci/IdeaProjects/IEEEOstimtech/IEEEOstimtechCS_Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/basmabakirci/IdeaProjects/IEEEOstimtech/untitled/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q01.executor": "Run",
+    "Application.Q02.executor": "Run",
+    "Application.Q02_Day2.executor": "Run",
+    "Application.Q03.executor": "Run",
+    "Application.Q04.executor": "Run",
+    "Application.Q06.executor": "Run",
+    "Application.S01.executor": "Run",
+    "Application.deneme.executor": "Run",
+    "Application.homeworkReader.executor": "Run",
+    "Application.homeworkWritten.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/basmabakirci/IdeaProjects/IEEEOstimtech/IEEEOstimtechCS_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/basmabakirci/IdeaProjects/IEEEOstimtech/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="week3.Day2" />
@@ -123,6 +119,10 @@
       <workItem from="1714917495346" duration="810000" />
       <workItem from="1714938324684" duration="86000" />
       <workItem from="1714938414164" duration="1000" />
+      <workItem from="1714940615186" duration="2747000" />
+      <workItem from="1715431340346" duration="3063000" />
+      <workItem from="1715465724153" duration="1372000" />
+      <workItem from="1715468767845" duration="4494000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -252,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714741393062</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1714940643486</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1714940643486</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
