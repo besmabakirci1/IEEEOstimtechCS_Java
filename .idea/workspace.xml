@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cdc7eca-67be-473f-a5dd-008656cfd6b4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/homeworkReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/homeworkWritten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/homeworkReader_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/homeworkWritten_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/homeworkReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/homeworkReader_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/homeworkWritten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/homeworkWritten_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     "Application.S01.executor": "Run",
     "Application.deneme.executor": "Run",
     "Application.homeworkReader.executor": "Run",
+    "Application.homeworkReader_1.executor": "Run",
     "Application.homeworkWritten.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -122,7 +122,7 @@
       <workItem from="1714940615186" duration="2747000" />
       <workItem from="1715431340346" duration="3063000" />
       <workItem from="1715465724153" duration="1372000" />
-      <workItem from="1715468767845" duration="4494000" />
+      <workItem from="1715468767845" duration="5107000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -260,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714940643486</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715509581565</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715509581565</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

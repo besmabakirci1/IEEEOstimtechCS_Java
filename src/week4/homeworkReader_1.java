@@ -4,7 +4,7 @@ import java.io.FileReader;
 //      2 sayıyı yan yana yaızp topla 10
 //      //  System.out.println(y);
 
-public class homeworkReader {
+public class homeworkReader_1 {
     public static void main(String[] args) {
         try (FileReader fileReader = new FileReader("number.txt")) {
             int i ;
@@ -18,7 +18,7 @@ public class homeworkReader {
                         previous ++;
                         sum = (number + previous);
                     }
-                    System.out.print("Number sum previous: " + number + "+" + previous + "=" + sum + "\n");
+                    System.out.print("Sum the number with previous: " + number + "+" + previous + "=" + sum + "\n");
                 }
             }
         } catch (Exception e) {
