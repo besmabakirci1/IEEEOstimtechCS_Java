@@ -1,5 +1,4 @@
 package week4;
-
 import java.io.FileWriter;
 
 public class homeworkWritten_1 {
